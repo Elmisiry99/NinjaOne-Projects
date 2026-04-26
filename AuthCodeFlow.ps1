@@ -1,6 +1,6 @@
-$ClientID = 'BG4ieh7CleIWybLu9LzCXR0IhXA'
-$Secret = 'fR2mUs7KjPhy4DJkWhHccm2X7hdLnl1D5yRtCfwC_xRVA9oWnG2Pfg'
-$RedirectURL = 'http://localhost:8080/'
+$ClientID = ''
+$Secret = ''
+$RedirectURL = ''
 
 
 ######## Authentication Flow ########
