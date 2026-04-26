@@ -1,8 +1,8 @@
 # This provides examples of how to upload files to NinjaOne Documentation to all the supported locations.
 
 # API Details
-$Secret = 'gieAwRP9dXhdcbqwYkEQobW6N_rHka05ruYL8NvO5Ku1R1OY44T-rg'
-$ClientID = 'BG4ieh7CleIWybLu9LzCXR0IhXA'
+$Secret = ''
+$ClientID = ''
 $Script:NinjaOneInstance = 'eu.ninjarmm.com'
 
 # Determines the Mime Type to use based on file extension
