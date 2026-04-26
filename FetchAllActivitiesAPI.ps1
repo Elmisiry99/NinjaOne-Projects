@@ -2,8 +2,8 @@
 #Name: Adham Web AC + RT
 
 $NinjaOneInstance     = "eu.ninjarmm.com"
-$NinjaOneClientId     = "BG4ieh7CleIWybLu9LzCXR0IhXA"
-$NinjaOneClientSecret = "fR2mUs7KjPhy4DJkWhHccm2X7hdLnl1D5yRtCfwC_xRVA9oWnG2Pfg"
+$NinjaOneClientId     = ""
+$NinjaOneClientSecret = ""
 
 # Body for authentication
 $body = @{
